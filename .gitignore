@@ -2,3 +2,8 @@
 /express-sam
 /serverless-users-crud
 /sqs-dev
+file-sharing-app/client/node_modules
+file-sharing-app/client/package-lock.json
+file-sharing-app/server/node_modules
+file-sharing-app/server/package-lock.json
+file-sharing-app/server/.env
